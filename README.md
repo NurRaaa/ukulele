@@ -1,4 +1,4 @@
-[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://deploy.stdlib.com/)
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
 
 # Ukulele
 ...and his music was electric.
